@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     daemons (1.1.9)
-    eventmachine (1.0.3)
+    eventmachine (1.2.0.1)
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
@@ -22,3 +22,9 @@ PLATFORMS
 DEPENDENCIES
   sinatra
   thin
+
+RUBY VERSION
+   ruby 2.3.1p112
+
+BUNDLED WITH
+   1.12.5
